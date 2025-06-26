@@ -12,21 +12,22 @@
 
 ```
 .
-├── requirements.txt      # パッケージ一覧
 ├── notebooks
 │   ├── ch01
-│   │   └── ex01.ipynb  # 1章のコード（ノートブック形式）
+│   │   └── ex01.ipynb    # 1章のコード（ノートブック形式）
 │   ├── ch02
-│   │   └── ex02.ipynb  # ...
+│   │   └── ex02.ipynb    # ...
  ...
 │   └── AppendixC
 │       └── ex23c.ipynb
 └── python
+    ├── requirements.txt  # パッケージ一覧
     ├── ch01
-    │   ├── ex01-1.py    # 1章のコード（Pythonコード）
+    │   ├── ex01-1.py     # 1章のコード（Pythonコード）
      ...
     └── AppendixC
-         └── ex23c.ipynb
+         ...
+         └── ch23c-7.py
 ```
 
 サンプルコードの解説は本書籍をご覧ください。
